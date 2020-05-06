@@ -1,3 +1,9 @@
+Duplicate of https://github.com/android/sunflower
+
+
+
+
+
 Android Sunflower
 =================
 
